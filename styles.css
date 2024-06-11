@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* color palette
+#a862ea purple - core color
+#6545a4 dark purple
+#bf62ea magenta
+#6383ea light blue
+#465ca4 darker blue
+*/
+* { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: black;
+    border: 1px;
+    /*background: #bf62ea;*/
+}
+
+h1 {
+    text-align: center;
+    background: #a862ea
+}
+
+a.buttonlink {
+    padding: 10px 50px;
+    border: 1px outset black;
+    border-radius: 3px;
+    color: #ccd4ee;
+    background-color: #465ca4;
+    text-decoration: none;
+    display:inline-block;
+}
