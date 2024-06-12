@@ -11,13 +11,21 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     border-color: black;
     border: 1px;
-    /*background: #bf62ea;*/
+    border-style: solid;
 }
 
 h1 {
     text-align: center;
-    background: #a862ea
+    background: #a862ea;
 }
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+}
+
 
 a.buttonlink {
     padding: 10px 50px;
